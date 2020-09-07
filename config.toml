@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://joebraasch.github.io/test2/"
 title = "Goldydocs"
 publishDir = "docs"
 
