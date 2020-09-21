@@ -1,7 +1,7 @@
 
 ---
-title: "News About Docsy"
-linkTitle: "News"
+title: "PopUp Gardens Team Members"
+linkTitle: "Team Members"
 weight: 20
 ---
 

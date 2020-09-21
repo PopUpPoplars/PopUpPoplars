@@ -1,7 +1,7 @@
 
 ---
-title: "New Releases"
-linkTitle: "Releases"
+title: "Institutions"
+linkTitle: "Arboreta and Universities"
 weight: 20
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Education"
+title: "People"
+linkTitle: "People"
 menu:
   main:
     weight: 30
 ---
 
 
-This is where lesson plans will go
+PopUp Poplar People and Institutions
 
